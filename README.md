@@ -1,1 +1,1 @@
-Ссылка на сайт: https://cinemaproject-aab7e.web.app/signin
+Ссылка на сайт: https://cinemaproject-aab7e.web.app/
